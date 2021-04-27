@@ -19,9 +19,9 @@ class Game
   end
 
   def end_of_game
-
+    
   end
-  
+
 end
 
 puts @players[0]
