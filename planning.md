@@ -11,7 +11,7 @@
 ##### PLAYER(name, lives)
 * The 'PLAYER' class will keep track player object, and how many lives they have remaining. 
 
-* Each player object should have a attr_accessor for their name at the begining of the game 
+* Each player object should have a attr_accessor for their name at the beginning of the game 
 
 * Each player object must be initialized with 3 lives to begin with. - Initialize - attr_accessor
 
