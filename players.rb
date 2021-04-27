@@ -10,9 +10,5 @@ class Player
    @lives -= 1 
   end
 
-  def player_status
-    puts "I am #{name} and I have #{lives} lives left!"
-  end
 
 end
-
